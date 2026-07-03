@@ -1,3 +1,7 @@
 # expense-tracker-python
-A console-based Expense Tracker built with Python to manage daily expenses.\n
+A console-based Expense Tracker built with Python to manage daily expenses.
+#include<stdio.h>
+int main() {
 Author - Tanvir
+
+}
